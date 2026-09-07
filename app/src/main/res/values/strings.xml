@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CleanCache SmarTV</string>
+    <string name="developer_email">sanchezluys@gmail.com</string>
+    <string name="clean_cache_button">LIMPIAR CACHÉ</string>
+    <string name="cleaning_in_progress">Limpiando caché del sistema…</string>
+    <string name="cleaning_description">Optimizando memoria y solicitando liberación de caché residual</string>
+    <string name="cleaning_completed_title">¡Caché Liberada!</string>
+    <string name="freed_space_label">Espacio liberado: %s</string>
+    <string name="storage_label">Almacenamiento</string>
+    <string name="cpu_label">Uso de CPU</string>
+    <string name="device_specs_label">Datos Técnicos</string>
+    <string name="processor_label">Procesador</string>
+    <string name="ram_label">Memoria RAM</string>
+    <string name="rom_label">Almacenamiento ROM</string>
+</resources>

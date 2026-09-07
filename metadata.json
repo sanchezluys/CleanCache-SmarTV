@@ -1,0 +1,6 @@
+{
+  "name": "CleanCache SmarTV",
+  "description": "Herramienta minimalista para Smart TV y Google TV para liberar espacio de almacenamiento, limpiar caché del sistema y monitorear CPU, RAM y ROM con control remoto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
