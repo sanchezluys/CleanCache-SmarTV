@@ -135,7 +135,7 @@ fun CleanCacheScreen(
 
                 // Bottom TV Footer
                 TvFooter(
-                    versionName = "1.0",
+                    versionName = com.example.BuildConfig.VERSION_NAME,
                     developerEmail = "sanchezluys@gmail.com",
                     modifier = Modifier.fillMaxWidth()
                 )
